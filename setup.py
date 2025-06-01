@@ -27,6 +27,5 @@ setup(
     include_package_data=True,
     python_requires=">=3.7",
 
-    keywords="data-imputation missing-data machine-learning scikit-learn random-forest autoencoder mixed-dataset",
-    }
+    keywords="data-imputation missing-data machine-learning scikit-learn random-forest autoencoder mixed-dataset"
 )

@@ -8,7 +8,7 @@ setup(
     description="PAIN : A library for imputing missing values",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/RajEshwariCodes/pain-imputer",
+    url="https://github.com/RajEshwariCodes/PAIN_Library",
     packages=find_packages(),
     install_requires=[
         "numpy==1.21.0",

@@ -56,7 +56,7 @@ Or
 
 - Install from source:
 ```bash
-git clone https://github.com/yourusername/pain-imputer.git
+git clone https://github.com/RajEshwariCodes/pain-imputer.git
 cd pain-imputer
 pip install -e .
 ```

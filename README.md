@@ -56,7 +56,7 @@ Or
 
 - Install from source:
 ```bash
-git clone https://github.com/RajEshwariCodes/pain-imputer.git
+git clone https://github.com/RajEshwariCodes/PAIN_Library.git
 cd pain-imputer
 pip install -e .
 ```
@@ -187,6 +187,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Contact
 Maintainer: Rajeshwari Mistri
 Email: [rajeshwarimistri11@gmail.com] (mailto:rajeshwarimistri11@gmail.com)
-Project Repository: [GitHub](https://github.com/RajEshwariCodes/pain-imputer)
+Project Repository: [GitHub](https://github.com/RajEshwariCodes/PAIN_Library.git)
 
 ## **Ready to make missing data painless?** pip install pain-imputer and transform your incomplete datasets today! 

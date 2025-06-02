@@ -187,6 +187,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Contact
 Maintainer: Rajeshwari Mistri
 Email: [rajeshwarimistri11@gmail.com] (mailto:rajeshwarimistri11@gmail.com)
-Project Repository: [GitHub](https://github.com/RajEshwariCodes/PAIN_Library.git)
+Project Repository: [GitHub](https://github.com/RajEshwariCodes/PAIN_Library)
 
 ## **Ready to make missing data painless?** pip install pain-imputer and transform your incomplete datasets today! 

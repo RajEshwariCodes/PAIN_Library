@@ -2,11 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pain-imputer",
-<<<<<<< HEAD
-    version="0.1.2",
-=======
     version="0.1.3",
->>>>>>> a65d5e8 (Initial commit of pain-imputer library)
     author="Rajeshwari Mistri",
     author_email="rajeshwarimistri11@gmail.com",
     description="PAIN : A library for imputing missing values",
@@ -32,8 +28,4 @@ setup(
     python_requires=">=3.7",
 
     keywords="data-imputation missing-data machine-learning scikit-learn random-forest autoencoder mixed-dataset"
-<<<<<<< HEAD
 )
-=======
-)
->>>>>>> a65d5e8 (Initial commit of pain-imputer library)
